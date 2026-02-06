@@ -12,7 +12,7 @@
 
 **Supervisors**: [Sergio José Rodríguez Méndez](https://researchportalplus.anu.edu.au/en/persons/sergio-rodriguez-mendez/), [Armin Haller](https://comp.anu.edu.au/people/armin-haller/)
 
-**Deliverables**: [published paper](https://link.springer.com/chapter/10.1007/978-981-96-1809-5_16), [code](https://github.com/glowing-sea/wikidata-entity-linking)
+**Deliverables**: [published paper](https://link.springer.com/chapter/10.1007/978-981-96-1809-5_16), [poster](https://github.com/glowing-sea/wikidata-entity-linking/deliverables/poster.jpg), [code](https://github.com/glowing-sea/wikidata-entity-linking)
 
 **Description**:
 
